@@ -4,6 +4,14 @@ Este projeto é um aplicativo simples utilizando **Ionic**, **Angular** e **Capa
 Ideal para estudos, prototipação e projetos mobile offline-first.
 
 ---
+**Integrantes do grupo:**
+
+* Clailson dos santos silva      |       **Matrícula**:  01689159 
+* Gabriel Antônio de Araújo e Sá    |    **Matrícula**: 01672540
+* Luiz Eduardo de França Rodrigues   |   **Matrícula**: 01680699
+* Matheus Pereira do Nascimento      |   **Matrícula**: 01693563
+
+---
 
 ##  Tecnologias Utilizadas
 - **Ionic 7**
