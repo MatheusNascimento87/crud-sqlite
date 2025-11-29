@@ -1,16 +1,16 @@
 
 ---
 
-# 📄 **TODO.md**
+#  **TODO.md**
 
 ```md
-# ✅ TODO – CRUD SQLite (Ionic + Angular + Capacitor)
+#  TODO – CRUD SQLite (Ionic + Angular + Capacitor)
 
 Lista de tarefas e melhorias planejadas para o projeto.
 
 ---
 
-## ✔️ Concluído
+##  Concluído
 - [x] Criar projeto Ionic com Angular (NgModules)
 - [x] Configurar Capacitor e SQLite
 - [x] Criar serviço `SQLiteService`
@@ -26,7 +26,7 @@ Lista de tarefas e melhorias planejadas para o projeto.
 
 ---
 
-## 🟡 Em Progresso
+##  Em Progresso
 - [ ] Adicionar toast/alertas de feedback ao usuário
 - [ ] Validar campos obrigatórios
 - [ ] Adicionar loaders ao carregar tabelas
@@ -34,31 +34,31 @@ Lista de tarefas e melhorias planejadas para o projeto.
 
 ---
 
-## 🔜 Próximas Melhorias
+##  Próximas Melhorias
 
-### 💾 Banco de Dados
+###  Banco de Dados
 - [ ] Adicionar novos campos ao usuário (ex: telefone)
 - [ ] Criar sistema de migração de versões
 - [ ] Implementar busca/filtro
 
-### 🎨 UX/UI
+###  UX/UI
 - [ ] Criar modal separado para edição
 - [ ] Adicionar confirmação antes de excluir
 - [ ] Adicionar animações
 
-### 📱 Plataformas
+###  Plataformas
 - [ ] Testar em dispositivos Android reais
 - [ ] Testar em iOS (se possível)
 
 ---
 
-## 🧪 Testes
+##  Testes
 - [ ] Criar testes unitários do serviço SQLite
 - [ ] Criar testes E2E da interface
 
 ---
 
-## 💡 Ideias Futuras
+##  Ideias Futuras
 - [ ] Sincronização com API remota
 - [ ] Exportar/importar banco SQLite
 - [ ] Implementar login local
@@ -66,6 +66,6 @@ Lista de tarefas e melhorias planejadas para o projeto.
 
 ---
 
-## 🏷️ Versão Atual
+##  Versão Atual
 `v1.0.0 — CRUD funcional completo`
 
