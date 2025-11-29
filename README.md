@@ -1,11 +1,11 @@
-# 📱 CRUD SQLite – Ionic + Angular + Capacitor
+#  CRUD SQLite – Ionic + Angular + Capacitor
 
 Este projeto é um aplicativo simples utilizando **Ionic**, **Angular** e **Capacitor**, implementando um CRUD completo com banco de dados **SQLite**.  
 Ideal para estudos, prototipação e projetos mobile offline-first.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **Ionic 7**
 - **Angular (modo NgModules)**
 - **Capacitor**
@@ -13,7 +13,7 @@ Ideal para estudos, prototipação e projetos mobile offline-first.
 
 ---
 
-## 📦 Instalação e Configuração
+##  Instalação e Configuração
 
 ### 1. Criar o projeto Ionic
 ```bash
@@ -91,7 +91,7 @@ Compile e execute pelo Android Studio
 
 - Modo de edição ao clicar em "Editar"
 
-### ✔️ Status do Projeto
+###  Status do Projeto
 
 O CRUD está completamente funcional e compatível com:
 
